@@ -5,6 +5,8 @@ in_menu: true
 ---
 # Le village
 
+TEST
+
 Lyoffans est située dans le nord-est de la Bourgogne-Franche-Comté, dans le département de la Haute-Saône, non loin du Territoire de Belfort et du Doubs. 
 
 Parmi les 449 hectares du territoire de la commune, 171 sont boisés dont 163 de bois communal. Le terrain est plat avec au centre une cuvette allongée. Le village s'est installé sur un territoire caractérisé par la présence de vastes plaines vallonnées.
