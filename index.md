@@ -24,7 +24,7 @@ Village étendu de 443 habitants, plein de verdure et abondamment fleuri en sais
 
 L’église sous le titre de Saint-Martin, reconstruite aux XVIème et XVIIIème siècles, fut agrandie en 1820 de deux nefs latérales. Son clocher est carré à toit bulbeux, propre à la Franche-Comté.
 
-![Église de Lyoffans]({% [link images/église.jp](https://github.com/HeleneLyof/lyoffans/blob/main/images/%C3%A9gliseOK.jpeg?raw=true) %})
+![Église de Lyoffans]({% [link images/église.jpg](https://github.com/HeleneLyof/lyoffans/blob/main/images/%C3%A9gliseOK.jpeg?raw=true) %})
 
 Le style des fermes anciennes est particulier, leurs porches et leurs corps de logis se dressent tout en hauteur, d’une seule pièce par étage.
 
